@@ -1,16 +1,21 @@
-## Hi there 👋
+## Apresentação
+   - Olá! Sou um estudante no primeiro semestre da faculdade de ADS =)
+   - Buscando atuar na área de engenharia de software
+   - Atualmente aprofundando meus conhecimentos em HTML e C
 
-<!--
-**LimagabsDev/LimagabsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<br><br><br><br>
+    
+ <p align="left">
+      <a href="https://github.com/LimagabsDev?tab=followers">
+         <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/LimagabsDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <p />
+         
+## Contatos
+- lima86203@gmail.com
+- https://br.linkedin.com/in/gabrielliima
