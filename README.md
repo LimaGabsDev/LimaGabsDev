@@ -30,9 +30,8 @@
   <img src="contatos.svg?v=1" alt="Contatos">
 </p>
 
-- gabsaraujo115@gmail.com <img align="left" src="gmail.svg"  width="25px" />
-&nbsp;&nbsp;
-- https://br.linkedin.com/in/gabrielliima <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+- <img src="gmail.svg" width="25px" /> gabsaraujo115@gmail.com
+- <img alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> https://br.linkedin.com/in/gabrielliima
           
 <br>
 
