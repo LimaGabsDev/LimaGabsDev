@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="welcome.svg?v=2" alt="Welcome">
+  <img src="welcome.svg?v=3" alt="Welcome">
 </p>
    
    - Olá! Sou um estudante no primeiro semestre da faculdade de ADS =)
