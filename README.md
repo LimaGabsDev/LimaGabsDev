@@ -12,9 +12,8 @@
 <br><br><br><br>
            
 ## Contatos
-- gabsaraujo115@gmail.com 
-  <br>
-- https://br.linkedin.com/in/gabrielliima <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+- gabsaraujo115@gmail.com <img align="left" src="gmail.svg"  width="25px" />
+- https://br.linkedin.com/in/gabrielliima <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
 
 
