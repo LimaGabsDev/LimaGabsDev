@@ -11,11 +11,13 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <br><br><br><br>
     
- <p align="left">
-      <a href="https://github.com/LimagabsDev?tab=followers">
-         <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/LimagabsDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-         <p />
+ 
          
 ## Contatos
 - gabsaraujo115@gmail.com
 - https://br.linkedin.com/in/gabrielliima
+
+<p align="left">
+      <a href="https://github.com/LimagabsDev?tab=followers">
+         <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/LimagabsDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <p />
