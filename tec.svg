@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100">
+  <defs>
+
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00599C" />   <!-- Azul do C++ -->
+      <stop offset="50%" stop-color="#9B4F96" />  <!-- Roxo do C# -->
+      <stop offset="100%" stop-color="#E34F26" /> <!-- Laranja do HTML5 -->
+    </linearGradient>
+  </defs>
+  
+  <text x="0" y="50%" dominant-baseline="middle" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="bold" fill="url(#techGradient)">
+    Tecnologias e Ferramentas
+  </text>
+</svg>
