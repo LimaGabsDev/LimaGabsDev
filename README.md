@@ -1,6 +1,6 @@
-<div align="left">
+<p align="left">
   <img src="welcome.svg" alt="Welcome">
-</div>
+</p>
 
 <br><br>
    
