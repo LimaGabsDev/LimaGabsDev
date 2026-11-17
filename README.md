@@ -6,7 +6,7 @@
    - Buscando atuar na área de engenharia de software
    - Atualmente aprofundando meus conhecimentos em C++, C# e HTML/CSS
      
-<br><br>
+<br>
 
 <p align="left">
   <img src="tec.svg?v=1" alt="Tecnologias e Ferramentas">
@@ -24,14 +24,14 @@
   <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 </p>
 
-<br><br><br>
+<br>
            
 <p align="left">
   <img src="contatos.svg?v=1" alt="Contatos">
 </p>
 
 - gabsaraujo115@gmail.com <img align="left" src="gmail.svg"  width="25px" />
-&nbsp;
+&nbsp;&nbsp;
 - https://br.linkedin.com/in/gabrielliima <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
 <br>
