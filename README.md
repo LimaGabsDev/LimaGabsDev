@@ -1,15 +1,15 @@
 <p align="left">
-  <img src="welcome.svg" alt="Welcome">
+  <img src="welcome.svg?v=2" alt="Welcome">
 </p>
-
-<br>
    
    - Olá! Sou um estudante no primeiro semestre da faculdade de ADS =)
    - Buscando atuar na área de engenharia de software
    - Atualmente aprofundando meus conhecimentos em C++, C# e HTML/CSS
 <br>
 
-## Tecnologias e Ferramentas
+<p align="left">
+  <img src="tec.svg?v=1" alt="Tecnologias e Ferramentas">
+</p>
 
 <img align="left" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
