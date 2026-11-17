@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="welcome1.svg" alt="Welcome">
+  <img src="welcome.svg" alt="Welcome">
 </p>
 
 <br>
