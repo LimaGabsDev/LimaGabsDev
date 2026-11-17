@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil
+## Welcome
    - Olá! Sou um estudante no primeiro semestre da faculdade de ADS =)
    - Buscando atuar na área de engenharia de software
    - Atualmente aprofundando meus conhecimentos em HTML/CSS, C++ e C#
