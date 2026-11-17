@@ -1,4 +1,9 @@
-##  Welcome 
+<div align="center">
+  <img src="welcome.svg" alt="Welcome">
+</div>
+
+<br><br>
+   
    - Olá! Sou um estudante no primeiro semestre da faculdade de ADS =)
    - Buscando atuar na área de engenharia de software
    - Atualmente aprofundando meus conhecimentos em C++, C# e HTML/CSS
@@ -6,9 +11,9 @@
 
 ### Tecnologias e Ferramentas
 
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <br><br><br><br>
            
 ## Contatos
