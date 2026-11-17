@@ -31,6 +31,7 @@
 </p>
 
 - gabsaraujo115@gmail.com <img align="left" src="gmail.svg"  width="25px" />
+&nbsp;
 - https://br.linkedin.com/in/gabrielliima <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
 <br>
